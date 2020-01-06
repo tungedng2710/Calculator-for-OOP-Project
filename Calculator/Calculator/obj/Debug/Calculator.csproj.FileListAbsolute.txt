@@ -1,0 +1,15 @@
+E:\C# exercise\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\C# exercise\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\C# exercise\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.Basic.resources
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.PTBac2.resources
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.HePT2An.resources
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.PTBac3.resources
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.CMPLX.resources
+E:\C# exercise\Calculator\Calculator\obj\Debug\Calculator.HePT3An.resources
